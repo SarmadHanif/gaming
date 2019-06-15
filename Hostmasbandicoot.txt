@@ -1,5 +1,5 @@
-127.0.0.1       localhost
-::1             ip6-localhost
+
+
 
 127.0.0.1 down.qq.com
 127.0.0.1 dlied.qq.com
@@ -329,7 +329,7 @@
 127.0.0.1 182.254.116.117
 127.0.0.1 ig-us-sdkapi.igamecj.com
 127.0.0.1 hkconfig.gcloud.qq.com
-127.0.0.1 ig-us-notice.igamecj.com 
+127.0.0.1 ig-us-notice.igamecj.com
 127.0.0.1 pingma.qq.com
 127.0.0.1 pingma.qq.com:80
 127.0.0.1 dlied1.qq.com
